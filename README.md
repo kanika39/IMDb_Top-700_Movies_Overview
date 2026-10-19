@@ -2,7 +2,7 @@
 
 > An end-to-end exploratory and statistical analysis of IMDb's Top 700 films, covering what drives a high Bayesian-weighted rating across genre, era, director, country, votes and runtime.
 
-![Dashboard Overview](images\IMDb_Top_700_Overview.png)
+![Dashboard Overview](images/IMDb_Top_700_Overview.png)
 
 ---
 
