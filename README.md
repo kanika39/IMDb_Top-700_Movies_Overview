@@ -113,7 +113,7 @@ An interactive dashboard with KPI tiles, filters (Decade, Genre, Director, Votes
 - **What drives rating:** Genre avg rating, Votes vs Rating, Runtime vs Rating
 - **Who makes the list:** Director leaderboard, Country representation
 
-📎 Workbook: [`Dashboards\imdb_dashboard.twb`](Dashboards\imdb_dashboard.twb)
+📎 Workbook: [`Dashboards\imdb_dashboard.twb`](Dashboards/imdb_dashboard.twb)
 🌐 Live version: *[https://public.tableau.com/views/imdb_dashboard_17914104056130/IMDbTop700Overview?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]*
 
 > To open the workbook, re-point the data source to `Data\IMDb_Top_700_Movies_2026.csv` if Tableau asks for it.
@@ -162,7 +162,7 @@ The notebook was built on Google Colab. If you run it locally, make sure the CSV
 
 ## 📄 Full Report
 
-A 12-page report covering context, methodology, hypotheses, findings and recommendations is in [`report/NL_IMDbTop700.pdf`](Reports\NL_IMDbTop700.pdf).
+A 12-page report covering context, methodology, hypotheses, findings and recommendations is in [`report/NL_IMDbTop700.pdf`](Reports/NL_IMDbTop700.pdf).
 
 ---
 
